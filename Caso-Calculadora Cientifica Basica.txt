@@ -1,0 +1,9 @@
+CALCULADORA CIENTÍFICA
+· Acceso rápido a los números pi y e.
+· Funciones de trigonometría.
+· Funciones logarítmicas en base e y en base 10.
+· Funciones exponenciales.
+· Raíces cuadradas y superiores.
+· Notaciones científicas.
+· Aritmética de punto flotante.
+· Cálculo binario, hexadecimal y octal.
